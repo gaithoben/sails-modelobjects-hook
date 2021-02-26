@@ -1,0 +1,16 @@
+{
+  "name": "sails-modelojects-hook",
+  "version": "0.0.1",
+  "description": "A hook for instantiating model objects",
+  "main": "index.js",
+  "sails": {
+    "isHook": true,
+    "hookName": "modelobjects"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bernard Gaitho <gaithoben@gmail.com> (http://github.com/gaithoben)",
+  "license": "MIT"
+}
