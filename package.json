@@ -1,6 +1,6 @@
 {
-  "name": "sails-modelojects-hook",
-  "version": "0.0.1",
+  "name": "sails-modelobjects-hook",
+  "version": "0.0.2",
   "description": "A hook for instantiating model objects",
   "main": "index.js",
   "sails": {
